@@ -1,4 +1,4 @@
-import Form from "./components/form.component";
+import Form from "./components/form/form.component";
 
 import "./App.css";
 
